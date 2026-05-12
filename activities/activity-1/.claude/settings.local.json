@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la /Users/maryjerely.laguda/Documents/S9-ST/[]-NODEJS/resources-nodejs-mbtc/activities/activity-1/)",
+      "Read(//Users/maryjerely.laguda/Documents/S9-ST/**)",
+      "Bash(rm \"/Users/maryjerely.laguda/Documents/S9-ST/[]-NODEJS/resources-nodejs-mbtc/activities/activity-1/README.md\" && ls \"/Users/maryjerely.laguda/Documents/S9-ST/[]-NODEJS/resources-nodejs-mbtc/activities/activity-1/\")",
+      "Bash(node --check server.js)"
+    ],
+    "additionalDirectories": [
+      "/Users/maryjerely.laguda/Documents/S9-ST/[]-NODEJS/resources-nodejs-mbtc/activities/activity-1"
+    ]
+  }
+}
